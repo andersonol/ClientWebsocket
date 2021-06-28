@@ -1,0 +1,40 @@
+{
+  "status":200,
+  "message":"Usu\u00e1rio identificado",
+  "params":{
+    "id":null,
+    "nested":null,
+    "page":null,
+    "order":null,
+    "filter":null
+  },
+  "error":{},
+  "data":{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MjE1MzgwNDgsImV4cCI6MTYyMTYzODA0OCwibmJmIjpudWxsLCJkYXRhIjp7ImRibmFtZSI6InZlbmRhbmFfYmI4ZjBjMDA0OTNiOTkwNDE0ZjNkM2JmZTAxOWEzN2MiLCJpZF91c3VhcmlvIjoiMyIsInVzdWFyaW9fbm9tZSI6IkFOREVSU09OIiwiaWRfcGVyZmlsIjoiMSIsImlkX3BsYW5vIjoiNyIsImVtYWlsIjoiYW5kZXJzb24ub2xAZ21haWwuY29tIiwiY2FkYXN0cm9fZW1haWwiOiJzdXBvcnRlQG1hcmdoLmNvbS5iciIsImlkX2VtcHJlc2EiOiIyMzAiLCJlbXByZXNhX3JhemFvX3NvY2lhbCI6IkxvamluaGEgVmVuZGFuYSBMVERBIiwiZW1wcmVzYV9ub21lX2ZhbnRhc2lhIjoiTG9qaW5oYSBWZW5kYW5hIiwiZW1wcmVzYV9jbnBqIjoiNDMzODk4MDgwMDAxMTUiLCJlbXByZXNhX2lkX2NpZGFkZSI6IjM2MjUiLCJlbXByZXNhX2NpZGFkZSI6Ikl0YW9jYXJhIiwiZW1wcmVzYV91ZiI6IlJKIiwiZW1wcmVzYV9wYWlzIjoiQnJhc2lsIiwiZW1wcmVzYV9wYWlzX2NvZGlnbyI6IjAxMDU4IiwiZW1wcmVzYV9pZF9yZWdpbWVfdHJpYnV0YXJpbyI6IjEiLCJlbXByZXNhX2NvbnRyaWJ1aW50ZV9pcGkiOiIwIiwiZW1wcmVzYV9pZGVudGlmaWNhZG9yIjoiYmI4ZjBjMDA0OTNiOTkwNDE0ZjNkM2JmZTAxOWEzN2MifX0.w_dxAcyym_6eoQ2MPit-2mdzmtOrWreC-VR_AeffSeo",
+    "data_hora_criacao":"2021-05-20 16:14:08",
+    "data_hora_expiracao":"2021-05-21 20:00:48",
+    "empresas":[],
+    "db":"vendana_bb8f0c00493b990414f3d3bfe019a37c",
+    "id_usuario":"3",
+    "usuario_nome":"ANDERSON",
+    "usuario_avatar":"https:\/\/h.web.vendana.com.br\/resources\/empresas\/bb8f0c00493b990414f3d3bfe019a37c\/avatar\/a32eae1aa84b8de6d76420c1e9b14023.png",
+    "id_perfil":"1",
+    "id_condutor":null,
+    "id_plano":"7",
+    "email":"anderson.ol@gmail.com",
+    "cadastro_email":"suporte@margh.com.br",
+    "id_empresa":"230",
+    "empresa_razao_social":"Lojinha Vendana LTDA",
+    "empresa_nome_fantasia":"Lojinha Vendana",
+    "empresa_cnpj":"43389808000115",
+    "empresa_avatar":"https:\/\/h.web.vendana.com.br\/resources\/empresas\/bb8f0c00493b990414f3d3bfe019a37c\/avatar\/e6caa05529f0bddb5339ce9a47bdc364.jpg",
+    "empresa_id_cidade":"3625",
+    "empresa_cidade":"Itaocara",
+    "empresa_uf":"RJ",
+    "empresa_pais":"Brasil",
+    "empresa_pais_codigo":"01058",
+    "empresa_id_regime_tributario":"1",
+    "empresa_contribuinte_ipi":"0",
+    "empresa_identificador":"bb8f0c00493b990414f3d3bfe019a37c"
+  }
+}
