@@ -1,2 +1,2 @@
 # ClientWebsocket
- Client Websocket 
+ Client de  Websocket utilizando https://www.esegece.com/websockets
